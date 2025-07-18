@@ -53,8 +53,8 @@ This is the simplest and most reliable way to run the application, as it mirrors
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone https://github.com/utkarshpratap2002/production-ready-flask-api.git
+    cd production-ready-flask-api
     ```
 
 2.  **Create your environment file:**
